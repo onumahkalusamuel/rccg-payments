@@ -26,8 +26,8 @@
             "designation" => "v-presido",
             "amount" => 3000
         ], [
-            "name" => "Sis Ibironke",
-            "designation" => "fin-sec",
+            "name" => "Sis Esther",
+            "designation" => "choir-cord",
             "amount" => 5000
         ], [
             "name" => "Bro Oluwafemi Emmanuel",
