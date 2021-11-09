@@ -41,6 +41,14 @@
             "name" => "Sis Funke Mary",
             "designation" => "asst-sec-gen",
             "amount" => 3000
+        ], [
+            "name" => "Bro Albert Faith",
+            "designation" => "bros-cord",
+            "amount" => 2000
+        ], [
+            "name" => "Bro Albert David",
+            "designation" => "drama-cord",
+            "amount" => 2000
         ],
 
     ];
