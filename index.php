@@ -49,6 +49,10 @@
             "name" => "Bro Albert David",
             "designation" => "drama-cord",
             "amount" => 2000
+        ], [
+            "name" => "Sis Ibironke",
+            "designation" => "fin-sec",
+            "amount" => 3000
         ],
 
     ];
