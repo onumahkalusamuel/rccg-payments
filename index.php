@@ -15,12 +15,12 @@
 <body>
     <?php
     // store data in php
-    $target = 30000;
+    $target = 50000;
     $payments = [
         [
             "name" => "Bro Oladipupo",
             "designation" => "presido",
-            "amount" => 5000
+            "amount" => 10000
         ], [
             "name" => "Bro Onumah Samuel",
             "designation" => "v-presido",
