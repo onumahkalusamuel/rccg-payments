@@ -53,6 +53,10 @@
             "name" => "Sis Ibironke",
             "designation" => "fin-sec",
             "amount" => 3000
+        ], [
+            "name" => "Sis Anthonia",
+            "designation" => "choir-member",
+            "amount" => 1000
         ],
 
     ];
