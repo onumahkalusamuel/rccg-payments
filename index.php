@@ -57,6 +57,14 @@
             "name" => "Sis Anthonia",
             "designation" => "choir-member",
             "amount" => 1000
+        ], [
+            "name" => "Sis Deborah",
+            "designation" => "sisters-cord",
+            "amount" => 3000
+        ], [
+            "name" => "Sis Fejiro",
+            "designation" => "bible-study-sec",
+            "amount" => 3000
         ],
 
     ];
