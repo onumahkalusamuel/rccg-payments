@@ -65,6 +65,10 @@
             "name" => "Sis Fejiro",
             "designation" => "bible-study-sec",
             "amount" => 3000
+        ],  [
+            "name" => "Bro Bidemi",
+            "designation" => "editor-in-chief",
+            "amount" => 3000
         ],
 
     ];
