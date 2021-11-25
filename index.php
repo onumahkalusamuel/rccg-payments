@@ -18,56 +18,60 @@
     $target = 50000;
     $payments = [
         [
+            "name" => "Pastor Adebayo",
+            "designation" => "",
+            "amount" => 3000
+        ], [
             "name" => "Bro Oladipupo",
-            "designation" => "presido",
+            "designation" => "",
             "amount" => 10000
         ], [
             "name" => "Bro Onumah Samuel",
-            "designation" => "v-presido",
+            "designation" => "",
             "amount" => 3000
         ], [
             "name" => "Sis Esther",
-            "designation" => "choir-cord",
+            "designation" => "",
             "amount" => 5000
         ], [
             "name" => "Bro Oluwafemi Emmanuel",
-            "designation" => "p-r-o",
+            "designation" => "",
             "amount" => 3000
         ], [
             "name" => "Sis Temitope Oladiti",
-            "designation" => "sec-gen",
+            "designation" => "",
             "amount" => 3000
         ], [
             "name" => "Sis Funke Mary",
-            "designation" => "asst-sec-gen",
+            "designation" => "",
             "amount" => 3000
         ], [
             "name" => "Bro Albert Faith",
-            "designation" => "bros-cord",
+            "designation" => "",
             "amount" => 2000
         ], [
             "name" => "Bro Albert David",
-            "designation" => "drama-cord",
+            "designation" => "",
             "amount" => 2000
         ], [
             "name" => "Sis Ibironke",
-            "designation" => "fin-sec",
+            "designation" => "",
             "amount" => 3000
         ], [
             "name" => "Sis Anthonia",
-            "designation" => "choir-member",
+            "designation" => "",
             "amount" => 1000
         ], [
             "name" => "Sis Deborah",
-            "designation" => "sisters-cord",
+            "designation" => "",
             "amount" => 3000
         ], [
             "name" => "Sis Fejiro",
-            "designation" => "bible-study-sec",
+            "designation" => "",
             "amount" => 3000
         ],  [
             "name" => "Bro Bidemi",
-            "designation" => "editor-in-chief",
+            "designation" => "",
             "amount" => 3000
         ],
 
