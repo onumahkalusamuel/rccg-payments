@@ -15,7 +15,7 @@
 <body>
     <?php
     // store data in php
-    $target = 50000;
+    $target = 60000;
     $payments = [
         [
             "name" => "Pastor Adebayo",
