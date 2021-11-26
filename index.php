@@ -22,6 +22,10 @@
             "designation" => "",
             "amount" => 3000
         ], [
+            "name" => "Mr Mayiwa",
+            "designation" => "",
+            "amount" => 5000
+        ], [
             "name" => "Bro Oladipupo",
             "designation" => "",
             "amount" => 10000
